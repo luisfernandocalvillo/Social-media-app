@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Social-media-app/static/css/main.b0338630.chunk.css",
+    "main.js": "/Social-media-app/static/js/main.e063f79b.chunk.js",
+    "main.js.map": "/Social-media-app/static/js/main.e063f79b.chunk.js.map",
+    "runtime-main.js": "/Social-media-app/static/js/runtime-main.23b04ddf.js",
+    "runtime-main.js.map": "/Social-media-app/static/js/runtime-main.23b04ddf.js.map",
+    "static/js/2.5acc9f98.chunk.js": "/Social-media-app/static/js/2.5acc9f98.chunk.js",
+    "static/js/2.5acc9f98.chunk.js.map": "/Social-media-app/static/js/2.5acc9f98.chunk.js.map",
+    "index.html": "/Social-media-app/index.html",
+    "static/css/main.b0338630.chunk.css.map": "/Social-media-app/static/css/main.b0338630.chunk.css.map",
+    "static/js/2.5acc9f98.chunk.js.LICENSE.txt": "/Social-media-app/static/js/2.5acc9f98.chunk.js.LICENSE.txt",
+    "static/media/errores.36ce7ca5.png": "/Social-media-app/static/media/errores.36ce7ca5.png",
+    "static/media/harbor.bee33a64.jpg": "/Social-media-app/static/media/harbor.bee33a64.jpg",
+    "static/media/logo.77209732.png": "/Social-media-app/static/media/logo.77209732.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23b04ddf.js",
+    "static/js/2.5acc9f98.chunk.js",
+    "static/css/main.b0338630.chunk.css",
+    "static/js/main.e063f79b.chunk.js"
+  ]
+}
