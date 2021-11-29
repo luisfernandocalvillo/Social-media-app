@@ -38,7 +38,7 @@ function NavItem(props) {
 
     return(
         <li className="nav-item">
-            <a href="#" className="icon-button cursor-pointer" onClick={() => setOpen(!open) } >
+            <a className="icon-button cursor-pointer" onClick={() => setOpen(!open) } >
                 {props.icon}
             </a>
             {open && <Dropdown options={options} />}

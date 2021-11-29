@@ -11,7 +11,7 @@ import svcPosts from '../../Services/posts.services';
 
 const User = () => {
     const [posts, setPosts] = useState([]);
-    const [queryParams, setQueryParams] = useState({page: 0, limit: 400});
+    const [queryParams, setQueryParams] = useState({page: 0, limit: 200});
     const { token } = useUserContext();
 
     useEffect(() => {
@@ -40,7 +40,7 @@ function NavItem(props) {
 
     return(
         <li className="nav-item">
-            <a href="#" className="icon-button cursor-pointer" onClick={() => setOpen(!open) } >
+            <a className="icon-button cursor-pointer" onClick={() => setOpen(!open) } >
                 {props.icon}
             </a>
             {open && <Dropdown options={options} />}
